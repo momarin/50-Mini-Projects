@@ -1,6 +1,15 @@
 # Intensiv HTML, CSS & JS course;
 
-# A collection of 50 projects that utilizes a wide variety of elements such as Axios, Tailwind CSS, async fetch, sizing Font Awesome Classes, different APIs, @keyframes, canvas, translate/transform CSS etc... ;
+# A collection of 50 projects that utilizes a wide variety of elements such as:
+  ● Axios
+● Tailwind CSS
+● async fetch
+● sizing Font Awesome Classes
+● different APIs
+● @keyframes
+● CSS canvas
+● CSS translate/transform
+● etc...;
 
 # by @bradtraversy & @florinpop17, available in UDEMY, 2025;
 
@@ -142,6 +151,7 @@
   ● hover to paint the board;
   ● color fading with CSS transition;
   ● rainbow palette: https://colorkit.co/palette/ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff/;
+
 
 
 
