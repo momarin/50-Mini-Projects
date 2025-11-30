@@ -151,6 +151,15 @@
   ● hover to paint the board;
   ● color fading with CSS transition;
   ● rainbow palette: https://colorkit.co/palette/ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff/;
+- 37 🐦 Pokédex
+  ● fetch and async
+  ● pokemon cards using POKEAPI:
+    > image
+    > id
+    > name
+    > type
+    > change in layout for each pokemon type
+
 
 
 
