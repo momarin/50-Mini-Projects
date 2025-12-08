@@ -159,6 +159,13 @@
     > name
     > type
     > change in layout for each pokemon type
+- 38 📱 Mobile Tab Navigation
+  ● change content for each tab
+    > specific class of show on the content and a specific class of active on the navigation tab
+  ● HTML with arias 
+- 39 💪 Password Strength Background
+  ● Login form that measures password length and clears the background image;
+  ● Tailwind CSS;
 
 
 
