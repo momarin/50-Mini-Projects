@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Font Awesome min -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css"
+      integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css" />
+    <!-- Custom JS -->
+    <script src="script.js" defer></script>
+
+    <title>Mobile Tab Navigation</title>
+  </head>
+  <body>
+    <div
+      class="phone"
+      role="application"
+      aria-label="Protótipo do aplicativo mobile"
+    >
+      <img
+        src="https://images.unsplash.com/photo-1745596028595-ed296e2f65ab?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        alt="Tela inicial do aplicativo mostrando menu principal e opções de navegação"
+        data-source="Unsplash"
+        data-location="Teresópolis, State of Rio de Janeiro, Brazil"
+        class="content show"
+        role="img"
+        aria-labelledby="desc-screen1"
+      />
+      <div id="desc-screen1" class="sr-only">
+        Tela inicial do aplicativo com fundo de paisagem montanhosa em
+        Teresópolis
+      </div>
+
+      <img
+        src="https://images.unsplash.com/photo-1574119331330-4f95c1952c6f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        alt="Tela de perfil do usuário com informações pessoais e histórico"
+        data-source="Unsplash"
+        data-location="Campos do Jordão, SP, Brasil"
+        class="content"
+        role="img"
+        aria-labelledby="desc-screen2"
+      />
+      <div id="desc-screen2" class="sr-only">
+        Tela de perfil do usuário com foto de perfil, nome, e opções de edição,
+        sobre fundo de paisagem de Campos do Jordão com casas e vegetação
+      </div>
+
+      <img
+        src="https://images.unsplash.com/photo-1631576529803-64eefa2b816c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        alt="Tela de configurações e preferências do aplicativo"
+        data-source="Unsplash"
+        data-location="Guapiaçu, Guapiaçu, Brazil"
+        class="content"
+        role="img"
+        aria-labelledby="desc-screen3"
+      />
+      <div id="desc-screen3" class="sr-only">
+        Tela de configurações com lista de opções como notificações, privacidade
+        e tema, sobre fundo de paisagem rural de Guapiaçu
+      </div>
+
+      <img
+        src="https://images.unsplash.com/photo-1687821015521-9e74ce67e5c9?q=80&w=626&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        alt="Tela de explorar ou descobrir novos conteúdos"
+        data-source="Unsplash"
+        data-location="Londrina, State of Paraná, Brazil"
+        class="content"
+        role="img"
+        aria-labelledby="desc-screen4"
+      />
+      <div id="desc-screen4" class="sr-only">
+        Tela de explorar com grid de conteúdos recomendados e barra de pesquisa,
+        sobre fundo urbano de Londrina com prédios
+      </div>
+      <!-- NAV TAB -->
+      <nav>
+        <ul>
+          <li class="active">
+            <i class="fas fa-home"></i>
+            <p>Home</p>
+          </li>
+          <li>
+            <i class="fas fa-box"></i>
+            <p>Work</p>
+          </li>
+          <li>
+            <i class="fas fa-book-open"></i>
+            <p>Blog</p>
+          </li>
+          <li>
+            <i class="fas fa-users"></i>
+            <p>About Us</p>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </body>
+</html>
