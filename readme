@@ -166,6 +166,9 @@
 - 39 💪 Password Strength Background
   ● Login form that measures password length and clears the background image;
   ● Tailwind CSS;
+- 40 🗐 3D Background Boxes
+  ● modern CSS with rotation effect;
+  ● 16 3D boxes rotating and transforming to one bigger box;
 
 
 
