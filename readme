@@ -2,14 +2,14 @@
 
 # A collection of 50 projects that utilizes a wide variety of elements such as:
   ● Axios
-● Tailwind CSS
-● async fetch
-● sizing Font Awesome Classes
-● different APIs
-● @keyframes
-● CSS canvas
-● CSS translate/transform
-● etc...;
+  ● Tailwind CSS
+  ● async fetch
+  ● sizing Font Awesome Classes
+  ● different APIs
+  ● @keyframes
+  ● CSS canvas
+  ● CSS translate/transform
+  ● etc...;
 
 # by @bradtraversy & @florinpop17, available in UDEMY, 2025;
 
@@ -169,6 +169,7 @@
 - 40 🗐 3D Background Boxes
   ● modern CSS with rotation effect;
   ● 16 3D boxes rotating and transforming to one bigger box;
+
 
 
 
