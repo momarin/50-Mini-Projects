@@ -169,6 +169,12 @@
   ● 16 3D boxes rotating and transforming to one bigger box;
 - 41 ✅ Verify Account UI
   ● verify account;
+- 42 👤 Live User Filter
+  ● Random User Generator;
+  ● fetch API Random User Me;
+  ● fetch <- promise;
+  ● mobile version;
+  ● li:not(:last-of-type);
 
 
 
